@@ -15,10 +15,6 @@ Estudando programação e a procura da primeira oportunidade de atuar área de d
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Igor12x&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-
 [![](https://visitcount.itsvg.in/api?id=Igor12x&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
