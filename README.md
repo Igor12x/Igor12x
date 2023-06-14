@@ -7,7 +7,7 @@ Tenho curso técnico na área de desenvolvimento de software no SENAI, já possu
 Certificação Cloud: Microsoft Certified: Azure Data Fundamentals
 
 
-## 🌐 Socials:
+## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-barroca-ten%C3%B3rio-4258621b9/) 
 
 # 💻 Tech Stack:
