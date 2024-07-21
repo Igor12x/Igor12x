@@ -11,9 +11,8 @@ Minhas principais competências incluem:
 
 Possuo certificações que fortalecem minhas competências:
 
-    - Microsoft Certified: Azure Data Fundamentals (DP-900)
-    - Excel Avançado
-    
+   - Microsoft Certified: Azure Data Fundamentals (DP-900)
+
 Minha experiência na Órigo Energia me permitiu aplicar e aprimorar minhas habilidades técnicas e de gerenciamento de projetos, utilizando metodologias ágeis para alcançar resultados eficientes e de alta qualidade.
 
 Estou motivado para contribuir com minha paixão por tecnologia e minha capacidade de aprendizagem rápida para agregar valor a uma empresa inovadora. Estou ansioso para enfrentar novos desafios e colaborar em equipe para desenvolver soluções criativas.
