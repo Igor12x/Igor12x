@@ -1,10 +1,24 @@
-# 💫 About Me:
+# 💫 Sobre mim:
+Olá! Sou Igor Barroca Tenório, graduando em Análise e Desenvolvimento de Sistemas pela Descomplica Faculdade Digital e formado em Desenvolvimento de Software pelo SENAI. Com uma sólida base acadêmica e prática, desenvolvi habilidades técnicas e estou entusiasmado para iniciar minha carreira como desenvolvedor júnior.
 
-Sou um profissional com análise crítica em tudo que faço, possuo ótimo relacionamento interpessoal principalmente para trabalhar em grupo. Fácil aprendizagem de sistemas e procedimentos. Estou focado na minha evolução pessoal, na evolução da equipe e da empresa. Buscando constantemente dar e receber feedbacks para que sempre podemos melhorar.
+Minhas principais competências incluem:
 
-Tenho curso técnico na área de desenvolvimento de software no SENAI, já possuo conhecimento em diversas habilidades quando envolve tecnologia como: Excel (avançado), desenvolvimento web, C#, Microsoft SQL Server, Git, MySQL, Java, Android Studio, lógica de programação.
+   -> Linguagens de Programação: ASP.NET, Java para Android, C#, e Java para desktop.
+   -> Bancos de Dados: Experiência com SQL (MySQL, SQL Server) e NoSQL (Firebase, Azure Cosmos DB).
+   -> IDE's: Familiaridade com VS Studio, Visual Studio Code, Android Studio e Eclipse.
+    -> Ferramentas e Análises: Conhecimento em Power BI,  alta capacidade de controles e indicadores operacionais.
+    -> Metodologias Ágeis: Proficiência em SCRUM, aplicando conceitos como Sprint Planning, Burndown Chart, Daily Scrums, Sprint Retrospective e Sprint Backlog, tanto em projetos acadêmicos quanto no ambiente corporativo na Órigo Energia.
 
-Certificação Cloud: Microsoft Certified: Azure Data Fundamentals
+Minha experiência na Órigo Energia me permitiu aplicar e aprimorar minhas habilidades técnicas e de gerenciamento de projetos, utilizando metodologias ágeis para alcançar resultados eficientes e de alta qualidade.
+
+Além disso, possuo certificações que fortalecem minhas competências:
+
+    -> Microsoft Certified: Azure Data Fundamentals (DP-900)
+    -> Excel Avançado
+
+Estou motivado para contribuir com minha paixão por tecnologia e minha capacidade de aprendizagem rápida para agregar valor a uma empresa inovadora. Estou ansioso para enfrentar novos desafios e colaborar em equipe para desenvolver soluções criativas.
+
+Vamos conversar para discutirmos como posso contribuir para o sucesso da sua empresa!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-barroca-ten%C3%B3rio-4258621b9/) 
